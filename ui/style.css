@@ -1,8 +1,8 @@
 body {
     font-family: timesnewroman;
-    color:#ffffff;
+    color:#;ffffff;
     background-color: red;
-    margin-top: 75px;
+    margin-top: 75px
 }
 
 .center {
@@ -10,7 +10,7 @@ body {
 }
 
 .text-big {
-    font-size: 100%;
+    font-size: 300%;
 }
 
 .bold {
@@ -19,7 +19,6 @@ body {
 
 .img-medium {
     height: 200px;
-    width:900px;
     
 }
 
