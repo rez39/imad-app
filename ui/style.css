@@ -1,6 +1,6 @@
 body {
     font-family:" georgia";
-    color:white;
+    color:grey;
     background-color: aquamarine;
     margin-top: 75px
 }
@@ -31,5 +31,7 @@ p{
     font-size:120%;
     color:red;
     background-color:grey;
+ padding-left:20px;
+    padding-right:20px;
 }
 
