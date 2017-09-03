@@ -9,33 +9,46 @@ body {
     text-align: center;
 }
 
-.text-big {
+.text-big 
+{
     font-size: 100%;
     text-align: center;
 }
 
-.bold {
+.bold 
+{
     font-weight: bold;
 }
 
-.img-medium {
+.img-medium 
+{
     height: 200px;
     
 }
-.total{
-    margin-right: px;
-        margin-left:px;
-}
-p{
+
+p
+   {
     font-family:"timesnewroman";
     font-size:200%;
     color:whitesmoke;
     background-color:chocolate;
  padding-left:20px;
     padding-right:20px;
-}
-h2{color:black;
+   }
+h2
+   {color:black;
     background-color: yellowgreen;
-}
+   }
 
+        .c{
+            max-width:800px;
+            padding-top:60px;
+            padding-left:20px;
+            padding-right:20px;
+            font-family: georgia;
+            margin : 0 auto;
+            color:grey;
+            
+        }
+    
 
