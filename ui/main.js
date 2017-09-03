@@ -1,5 +1,5 @@
 console.log('Loaded!');
-alert('i have added a js file also in to my html');
+
 
 var img=document.getElementById("image");
 var marginleft=0;
