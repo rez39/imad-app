@@ -2,7 +2,7 @@ body {
     font-family:" georgia";
     color:grey;
     
-    margin-top: 5px
+    
 }
 
 .center {
@@ -29,7 +29,7 @@ body {
 p
    {
     font-family:"timesnewroman";
-    font-size:200%;
+    font-size:100%;
     color:whitesmoke;
     
  padding-left:20px;
