@@ -1,8 +1,8 @@
 body {
     font-family:" georgia";
     color:grey;
-    background-color: aquamarine;
-    margin-top: 75px
+    
+    margin-top: 5px
 }
 
 .center {
@@ -31,13 +31,13 @@ p
     font-family:"timesnewroman";
     font-size:200%;
     color:whitesmoke;
-    background-color:chocolate;
+    
  padding-left:20px;
     padding-right:20px;
    }
 h2
    {color:black;
-    background-color: yellowgreen;
+    
    }
 
         .c{
