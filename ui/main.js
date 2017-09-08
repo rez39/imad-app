@@ -11,3 +11,10 @@ function moveRight()
 {
     var interval=setInterval(moveRight,50);
 };
+var counter=0;
+var button=documnt.getElementById('counter');
+button.onclick =function()
+{
+    counter=counter+1;
+    var span=document.getElementById('count')
+span.innerHTML= counter.toString();}
