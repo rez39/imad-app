@@ -28,6 +28,6 @@ span.innerHTML= counter.toString();
     }
         };
         request.open('GET','http://http://rajcute39.imad.hasura-app.io/counter',true);
-        request.send(null)
+        request.send(null);
         
         };
