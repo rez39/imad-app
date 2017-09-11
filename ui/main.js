@@ -15,7 +15,7 @@ button.onclick = function()
         }
       }
         };
-        request.open('GET','http://http://www.rajcute39.imad.hasura-app.io/counter',true);
+        request.open('GET','https://www.rajcute39.imad.hasura-app.io/counter',true);
         request.send(null);
         
         };
